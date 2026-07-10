@@ -22,3 +22,6 @@ Scalable cloud-based platform designed for future AI innovations.
 
 # Vision
 My mission is to make intelligent decision-making accessible to everyone by combining advanced AI with transparency, ethical reasoning, and user-centered design. Aegis AI is committed to delivering recommendations that are explainable, personalized, and practical while always keeping the user in control of the final decision
+
+# Future Roadmap
+Aegis AI aims to evolve beyond a decision assistant into a comprehensive AI ecosystem featuring intelligent planning, document comparison, financial analysis, health and wellness guidance, business strategy support, collaborative decision-making, smart automation, and personalized AI agents. By continuously learning from user preferences while respecting privacy, Aegis AI strives to become a reliable digital companion that helps people navigate everyday challenges and life-changing decisions with confidence.
